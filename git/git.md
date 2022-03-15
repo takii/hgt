@@ -69,7 +69,8 @@ kyle@KYLE MINGW64 ~/git-practice (master)
 
 ### (2) git status
 
-```bash
+{% code title="test.html" %}
+```html
 $ git status
 On branch master
 
@@ -77,6 +78,7 @@ No commits yet
 
 nothing to commit (create/copy files and use "git add" to track)
 ```
+{% endcode %}
 
 * Working Directory와 Staging Area에 있는 파일의 현재 상태를 알려주는 명령어
 * 어떤 작업을 시행하기 전에 수시로 status를 확인하면 좋습니다.
