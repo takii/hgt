@@ -1,6 +1,20 @@
 # Git 기본 명령어
 
-***
+{% hint style="danger" %}
+111
+{% endhint %}
+
+{% hint style="success" %}
+11
+{% endhint %}
+
+{% hint style="warning" %}
+1111
+{% endhint %}
+
+{% hint style="info" %}
+111
+{% endhint %}
 
 ## \[1] Git 초기 설정
 
