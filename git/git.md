@@ -27,7 +27,7 @@
     작성자를 수정하고 싶을 때에는 이름, 메일 주소만 다르게 하여 동일하게 입력합니다.
 
     ```bash
-    $ git config --global user.name "이름"
+    $ git config --global username "이름"
     $ git config --global user.email "메일 주소"
     ```
 2.  작성자가 올바르게 설정되었는지 확인 가능합니다.
@@ -51,7 +51,7 @@
 
 ### (1) git init
 
-```bash
+```shell
 $ git init
 Initialized empty Git repository in C:/Users/kyle/git-practice/.git/
 

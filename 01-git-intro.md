@@ -4,7 +4,7 @@ Chapter: https://www.notion.so/01-Git-Github-Intro-73b0b49bff584045aa4161f050c7a
 
 💡 해당 자료는 따로 교육생에게 제공되지 않습니다. Git 특강을 진행하는 강사가 PPT 내용을 좀 더 쉽게 파악할 수 있도록 만든 자료입니다.
 
-![](<.gitbook/assets/Untitled 1.png>)
+![안ㅕ하](<.gitbook/assets/Untitled 1.png>)
 
 ## Git 강의 인트로 각 화면 설명
 

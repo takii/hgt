@@ -7,3 +7,4 @@
 * [\[레슨\] 01) Git Intro](01-git-intro-1.md)
 * [\[레슨\] 01) Git Intro](01-git-intro-2.md)
 * [\[레슨\] 01) Git Intro](01-git-intro-3.md)
+* [\[레슨\] 01) Git Intro](01-git-intro-4.md)
